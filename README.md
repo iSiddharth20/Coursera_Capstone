@@ -7,4 +7,4 @@ Provided Weekly Assignment and Project can be used for the following Courses on 
 
 <hr>
 
-**[My Certificate]**(https://www.coursera.org/account/accomplishments/specialization/certificate/YXAGJLCGRYHC)
+**[My Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/YXAGJLCGRYHC)**
