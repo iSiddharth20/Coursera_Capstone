@@ -5,4 +5,4 @@ Provided Weekly Assignment and Project can be used for the following Courses on 
 + [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) : 
   - Course 9 : Applied data Science Capstone
 
-[My Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/YXAGJLCGRYHC)
+* [My Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/YXAGJLCGRYHC)
