@@ -6,4 +6,5 @@ Provided Weekly Assignment and Project can be used for the following Courses on 
   - Course 9 : Applied data Science Capstone
 
 <hr>
+
 [My Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/YXAGJLCGRYHC)
